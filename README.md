@@ -1,30 +1,13 @@
 ##换迎光临
 
-You can use the [editor on GitHub](https://github.com/xkun1) to maintain and preview the content for your website in Markdown files.
+You can use the [GitHub](https://github.com/xkun1) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+```
+## 天降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行指乱其所为，所以动心忍性，曾益其所不能 ##
+```
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
