@@ -1,6 +1,4 @@
 
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>2017年度总结</title>
