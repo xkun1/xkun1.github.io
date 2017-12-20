@@ -2,8 +2,14 @@
 
 
 
+h2 { background:url(https://github.com/xkun1/xkun1.github.io/pic/image1.jpg ); }
 
-![Alt text](/pic/image1.jpg "")
 
-## 天降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行指乱其所为，所以动心忍性，曾益其所不能 ##
+![Alt text](https://github.com/xkun1/xkun1.github.io/pic/image1.jpg "")
+
+
+
+<center><h4>天降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行指乱其所为，所以动心忍性，曾益其所不能</h4></center>
+<tfoot>小坤</tfoot>
+
 
