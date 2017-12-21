@@ -1,14 +1,16 @@
 
 
 
-
-![](/pic/image1.jpg "")
-
+![](/pic/image01.jpg )
 
 
-<center><h1>天降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行指乱其所为，所以动心忍性，曾益其所不能</h1></center>
-                                          <center><rp>小坤</rp></center> 
 
 
+
+
+
+
+#1.[2017年终总结](/noteText/2017sumup)
+#2.[我的猫可可](/noteText/keke)
 
 
