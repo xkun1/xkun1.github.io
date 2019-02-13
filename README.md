@@ -4,6 +4,8 @@
 ![](/pic/image1.jpg )
 
 
+<center># 小坤的生活记录 #</center>
+
 
 
 <h1>1.</h1>[2017年终总结](/noteText/2017sumup)
