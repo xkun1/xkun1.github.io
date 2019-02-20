@@ -1,8 +1,6 @@
 
 
-
-![](/pic/image1.jpg )
-
+<title>小坤的生活</title>
 
 <center># 小坤的生活记录 #</center>
 
