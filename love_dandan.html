@@ -667,7 +667,18 @@
     }());
     S.init();
 </script>
-<audio autoplay="autoplay" loop="loop">
+<script>
+	function init() {
+            var myAudio = document.getElementById("audio");
+            myAudio.addEventListener('ended', loopAudio, false);
+        }
+        function loopAudio() {
+            var myAudio = document.getElementById("audio");
+            myAudio.play();
+        }
+</script>
+
+<audio id="audio" autoplay="autoplay" loop="loop">
     <source src="http://kun521.com/mp3/geinimen.mp3" type="audio/mpeg">
 </audio>
 </body>
